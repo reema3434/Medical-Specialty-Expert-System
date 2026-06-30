@@ -31,15 +31,15 @@ consult_now.
 
 ### Welcome Screen
 
-![Welcome](screenshots/welcome.png)
+![Welcome](welcome.png)
 
 ### Questions
 
-![Questions](screenshots/questions.png)
+![Questions](questions.png)
 
 ### Recommendation
 
-![Recommendation](screenshots/result.png)
+![Recommendation](result.png)
 
 ## Team Members
 
